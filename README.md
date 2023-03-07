@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Bruno 👋
+
+My current stack is frontend with React, Typescript, Redux, and a mix of css post-processors and css-in-js.
+
+- 🌱 I’m currently learning **Remixjs**, and a little more about backend with **Nestjs**
+- 📫 How to reach me: bruno.padovan@gmail.com
+
+- ⚡ Fun fact: I know how to create completely useless DnD and Pathfinder 2 characters.
 
 <!--
 **reziak/reziak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
