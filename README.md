@@ -2,7 +2,7 @@
 
 My current stack is frontend with React, Typescript, Redux, and a mix of css post-processors and css-in-js.
 
-- 🌱 I’m currently learning **Remixjs**, and a little more about backend with **Nestjs**
+- 🌱 I’m currently taking a look at **Remixjs** and improving my **Nextjs** skills, and a little more about backend with **Nestjs**
 - 📫 How to reach me: 
   - [email](mailto:bruno.padovan@gmail.com)
   - [linkedin](https://www.linkedin.com/in/bruno-lira-049b4112/)
