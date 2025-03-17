@@ -5,7 +5,7 @@ My current stack is frontend with React, Typescript, Redux, and a mix of css pos
 - 🌱 I’m currently taking a look at **Remixjs** and improving my **Nextjs** skills, and a little more about backend with **Nestjs**
 - 📫 How to reach me: 
   - [email](mailto:bruno.padovan@gmail.com)
-  - [linkedin](https://www.linkedin.com/in/bruno-lira-049b4112/)
+  - [linkedin](https://www.linkedin.com/in/brunop-lira/)
 - ⚡ Fun fact: I know how to create completely useless *D&D* and *Pathfinder 2* characters.
 
 [![reziak's github stats](https://github-readme-stats.vercel.app/api?username=reziak&count_private=true&show_icons=true&hide_rank=false&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
